@@ -1,0 +1,10 @@
+id = varchar
+regulatory_status_name =  varchar
+facility_type_name = varchar
+
+is_approved	has_edits =  bool
+date_requested = date
+county_name	= varchar
+constituency_id = varchar
+county_id	= varchar
+keph_level_name	= varchar
